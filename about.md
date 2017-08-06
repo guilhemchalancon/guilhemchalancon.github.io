@@ -31,7 +31,8 @@ I grew up in a small village, the location of which seems to confuse most people
 
 ![_config.yml]({{ site.baseurl }}/images/palalda.jpg)
 
-Some say that this place is blessed for its weather, geography and gastronomy. Years of British weather, British food, and the sadly infamous British bathroom taps have convinced me that it's true. Fortunately, Britain is full of charms in <a class="surprise">other domains</a>.
+Some say that this place is blessed for its weather, geography and gastronomy. Years of British weather, British food, and the sadly infamous British bathroom taps have convinced me that there is some truth to it. 
+This is not to say Great Britain does not have its own <a class="surprise">gems!</a>.
 
 
 
