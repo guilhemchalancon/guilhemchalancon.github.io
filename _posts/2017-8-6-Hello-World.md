@@ -4,7 +4,7 @@ title: Hello world
 ---
 
 I have finally decided to restore a web presence by building a brand new personal webpage. 
-Please note that my Cambridge student [website](https://www.mrc-lmb.cam.ac.uk/genomes/guilhem) is outdated (I have long finished my PhD). 
+Please note that my Cambridge student [website](http://www.mrc-lmb.cam.ac.uk/genomes/guilhem) is outdated (I have long finished my PhD). 
 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
