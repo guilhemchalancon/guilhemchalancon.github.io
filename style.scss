@@ -247,7 +247,7 @@ nav {
 //
 
 .surprise:hover:after {
-		    content: url(../images/fun/little_britain.gif);
+		    content: url({{ site.baseurl }}/images/fun/little_britain.gif);
     		display: block;
     		position:relative;
     		width:200;
