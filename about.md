@@ -16,20 +16,20 @@ Below is a very short resume. You will find more details on my [LinkedIn profile
 
 ### Work Experience
 
-* 2015 -- present: Monitor Deloitte, [Deloitte Consulting](https://www2.deloitte.com/uk/en.html), London United Kingdom
+* 2015 -- present: Monitor Deloitte, [Deloitte Consulting](https://www2.deloitte.com/uk/en.html), London
 
 ### Education
 
-* 2011-2015: PhD in Systems Biology, University of Cambridge, United Kingdom
-* 2007-2011: MSc, Ecole Normale Superieure, Cachan (now Paris-Saclay), France
-* 2005-2007: [CPGE](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles), Ecole Sainte-Genevieve, Versailles, France
+* 2011-2015: PhD in Systems Biology, University of Cambridge
+* 2007-2011: MSc, Ecole Normale Superieure, Cachan (now Paris-Saclay)
+* 2005-2007: [CPGE](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles), Ecole Sainte-Genevieve, Versailles
 
 
 ### Where I am from 
 
 I grew up in a small village, the location of which seems to confuse most people I meet :-). So here it is:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11281877.891596831!2d-8.738817427571195!3d46.342305409801746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12baa6a53505d555%3A0x407882116676fe0!2s66110+Am%C3%A9lie-les-Bains-Palalda%2C+France!5e0!3m2!1sen!2suk!4v1502059178385" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11369569.864336692!2d-10.584517222057713!3d45.91583029646275!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12baa6a53505d555%3A0x407882116676fe0!2s66110+Am%C3%A9lie-les-Bains-Palalda%2C+France!5e0!3m2!1sen!2suk!4v1502059654836" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 As you can see, it sits at the feet of the French Pyrenees mountains, on the Mediterranean side. 
 
