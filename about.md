@@ -1,15 +1,21 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Work Experience
 
-A place to include any other types of information that you'd like to include about yourself.
+* 2015-- Monitor Deloitte, Deloitte Consulting, London United Kingdom
+
+
+### Education
+
+* 2011-2015 PhD in Systems Biology, University of Cambridge, United Kingdom
+* 2007-2011 Ecole Normale Superieure, Cachan (now Paris-Saclay), France
+* 2005-2007 Sainte-Genevieve, Versailles, France
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[guilhem.chalancon@gmail.com](mailto:guilhem.chalancon@gmail.com)
