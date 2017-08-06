@@ -27,11 +27,11 @@ Below is a very short resume. You will find more details on my [LinkedIn profile
 
 ### Where I am from 
 
-I grew up in a small village, the location of which seems to confuse most people I meet :-). 
+I grew up in a small village, the location of which seems to confuse most people I meet :-). So here it is:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d94205.09540173296!2d2.6169261323793496!3d42.45094734559433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12baa6a53505d555%3A0x407882116676fe0!2s66110+Am%C3%A9lie-les-Bains-Palalda%2C+France!5e0!3m2!1sen!2suk!4v1502058231889" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<a title="Par Eric Gaba (Sting - fr:Sting) [GFDL (http://www.gnu.org/copyleft/fdl.html) ou CC BY-SA 4.0-3.0-2.5-2.0-1.0 (http://creativecommons.org/licenses/by-sa/4.0-3.0-2.5-2.0-1.0)], via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File%3AFrance_relief_location_map.jpg"><img width="128" alt="France relief location map" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/France_relief_location_map.jpg/128px-France_relief_location_map.jpg"/></a>
 
-So here it is, on the Mediterranean side of the French Pyrenees mountains:
+As you can see, it sits at the feet of the French Pyrenees mountains, on the Mediterranean side. 
 
 ![_config.yml]({{ site.baseurl }}/images/palalda.jpg)
 
