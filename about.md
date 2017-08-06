@@ -24,6 +24,17 @@ Below is a very short resume. You will find more details on my [LinkedIn profile
 * 2007-2011: MSc, Ecole Normale Superieure, Cachan (now Paris-Saclay), France
 * 2005-2007: [CPGE](https://en.wikipedia.org/wiki/Classe_pr%C3%A9paratoire_aux_grandes_%C3%A9coles), Ecole Sainte-Genevieve, Versailles, France
 
+
+### Where I am from 
+
+I grew up in a small village, the location of which seems to confuse most people I meet :-). So here it is, on the Mediterranean side of the French Pyrenees mountains:
+
+![_config.yml]({{ site.baseurl }}/images/palalda.jpg)
+
+Some say that this place is blessed for its weather, geography and gastronomy. Years of British weather, British food, and the sadly infamous British bathroom taps have convinced me that it's true. Fortunately, Britain is full of charms in <a class="surprise">other domains</a>.
+
+
+
 ### Contact me
 
 [guilhem.chalancon@gmail.com](mailto:guilhem.chalancon@gmail.com)

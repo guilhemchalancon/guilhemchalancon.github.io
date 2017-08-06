@@ -271,6 +271,13 @@ nav {
   }
 }
 
+.surprise:hover:after {
+		    content: url(../images/fun/little_britain.gif);
+    		display: block;
+    		position:relative;
+    		width:200;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
