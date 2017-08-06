@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I'm Guilhem! Among other things, I am first and foremost passionate about the idea of understanding and predicting the behaviour of complex systems with the help of data science. That's what drives my intellectual curiosity, and hence my career. 
+Hi, I'm Guilhem! Among other things, I am first and foremost passionate about the idea of understanding and predicting the behaviour of complex systems with the help of data science. That's what drives my intellectual curiosity and --as a result-- shapes my career. 
 
 Currently, I am a data scientist and consultant working in London. A large part of my work consists of designing, building and deploying advanced analytics solutions that use machine learning to solve a variety of problems across multiple industries (with a particular focus on retail analytics). The other part is concerned with change management, client relationship management, business development and training. 
 
@@ -39,7 +39,6 @@ Some say that this place is blessed for its weather, geography and gastronomy. Y
 This is not to say that Great Britain does not have its own <a class="surprise">gems...</a>
 
 
-
 ### Contact me
 
-[guilhem.chalancon@gmail.com](mailto:guilhem.chalancon@gmail.com)
+If you would like to get in touch, please drop me an email at [guilhem.chalancon@gmail.com](mailto:guilhem.chalancon@gmail.com).
