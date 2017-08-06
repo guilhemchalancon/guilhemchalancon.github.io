@@ -3,10 +3,10 @@ layout: post
 title: Hello world
 ---
 
-I have finally decided to restore a web presence by building a brand new personal webpage. 
-Please note that my Cambridge student [website](http://www.mrc-lmb.cam.ac.uk/genomes/guilhem) is outdated (I have long finished my PhD). 
+It has been two years since I have finished my PhD in Cambridge, and I thought it would be time now to build a new personal webpage, similar to [the one](http://www.mrc-lmb.cam.ac.uk/genomes/guilhem) I made 
+during my time in Cambridge.
 
+![_config.yml]({{ site.baseurl }}/images/old_website.png)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+This time, I have opted to build a blog maintain with [GitHub Pages](https://pages.github.com/) and powered by [Jekyll](https://jekyllrb.com/).
+When time allows, I'll be playing around with [d3.js](https://jekyllrb.com/) and [R markdown](http://rmarkdown.rstudio.com/). 
