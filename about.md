@@ -29,7 +29,7 @@ Below is a very short resume. You will find more details on my [LinkedIn profile
 
 I grew up in a small village, the location of which seems to confuse most people I meet :-). So here it is:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11369569.864336692!2d-10.584517222057713!3d45.91583029646275!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12baa6a53505d555%3A0x407882116676fe0!2s66110+Am%C3%A9lie-les-Bains-Palalda%2C+France!5e0!3m2!1sen!2suk!4v1502059654836" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11369569.864336692!2d-10.584517222057713!3d45.91583029646275!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12baa6a53505d555%3A0x407882116676fe0!2s66110+Am%C3%A9lie-les-Bains-Palalda%2C+France!5e0!3m2!1sen!2suk!4v1502059654836" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 As you can see, it sits at the feet of the French Pyrenees mountains, on the Mediterranean side. 
 
